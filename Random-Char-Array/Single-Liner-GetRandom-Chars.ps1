@@ -1,0 +1,1 @@
+(([char[]]([char]'a'..[char]'z') + 0..9) | get-random -count 6) -join ''
